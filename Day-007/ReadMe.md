@@ -1,6 +1,6 @@
 # Day-7
 ## Contents:
-Today is just the culmination of past one week of learning,i.e., 
+Today is just the culmination of past one week of learning,i.e., \
 1.) Input functions and string concatenation. \
 2.) While and for loops. \
 3.) If-elif-else conditional statements. \
