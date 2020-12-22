@@ -2,7 +2,7 @@
 ## Contents:
 1.) While loops. \
 2.) Functions in python. \
-3.) Indentation in python. \=
+3.) Indentation in python. 
 
 ## Project Name:
 ### MazeSolver:
