@@ -1,6 +1,6 @@
 # Day - 12
 ## Contents:
-* Namespaces(Local v/s Global):A namespace is a collection of currently defined symbolic names along with \
+* [Namespaces(Local v/s Global)](https://realpython.com/python-namespaces-scope/#:~:text=Remove%20ads-,Namespaces%20in%20Python,values%20are%20the%20objects%20themselves.):A namespace is a collection of currently defined symbolic names along with \
 information about the object that each name references.
 * Global Namespace: The global namespace contains any names defined at the level of the main program.
 * Local Namespace: This namespace includes local names inside a function. This namespace is created when a \
