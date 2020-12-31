@@ -6,21 +6,21 @@
 
 ## Intermediate Projects:
 
- - ### [Geometry_Shapes]():
+ - ### [Geometry_Shapes](https://github.com/govindrathore27/100-Days-Of_Python/blob/main/Day-018/IntermediateProjects/geometry_shapes.py):
  ![](https://media4.giphy.com/media/kog2J5GfDdPoY/200.gif)
  
    In this project , we learnt about functions such as __turtle.left()__ and __turtle.right()__ to draw various geometrical shapes from triangle to decagon.
-- ### [Walk]() : 
+- ### [Walk](https://github.com/govindrathore27/100-Days-Of_Python/blob/main/Day-018/IntermediateProjects/walk.py) : 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/85/Random_walk_2500_animated.gif)
 
    In this project, we used __Random__ package to randomise our walk and color.Directions are changed using __setheading__ function.
-- ### [Spirograph]():
+- ### [Spirograph](https://github.com/govindrathore27/100-Days-Of_Python/blob/main/Day-018/IntermediateProjects/spirograph.py):
 ![](https://i.pinimg.com/originals/2c/2b/ef/2c2bef2d3d318d9289753d6063283043.gif)
 
    In this project , we created spirograph using loop and __circle__ function.
     
 ## Final Project:
-- ### [Hirst_Paintings]():
+- ### [Hirst_Paintings](https://github.com/govindrathore27/100-Days-Of_Python/blob/main/Day-018/hirst_painting.py):
 ![](http://damienhirst.com/images/hirstimage/DHS8614againstwall_771_0.jpg)
 
    In this final project we first installed colorgram package of python , to get color out of a Hirst painting then used these \
